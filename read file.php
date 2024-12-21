@@ -1,4 +1,3 @@
-<!-- دا باك الجدول  -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
